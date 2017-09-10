@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "typing invaders final.data.unityweb",
+"asmCodeUrl": "typing invaders final.asm.code.unityweb",
+"asmMemoryUrl": "typing invaders final.asm.memory.unityweb",
+"asmFrameworkUrl": "typing invaders final.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
